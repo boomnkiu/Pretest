@@ -1,0 +1,6 @@
+{
+    "/api": {
+      "target": "https://codequiz.azurewebsites.net",
+      "secure": false
+    }
+  }
